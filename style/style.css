@@ -689,7 +689,14 @@ padding-bottom: 35px;
   margin-top: 30px;
 
 }
-
+.pp2{
+  color: #0e0e0eb3;
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+padding-top: 15px;
+}
 .tab th td{
   color: #0e0e0e;
 font-family: Fira Sans;
